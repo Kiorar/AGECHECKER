@@ -9,7 +9,7 @@ int main(){
     std::cin >> age;
 
      if (age > 150) {
-        std::cout << "You're a lich. Eternal welcome...\n";
+        std::cout << "Eternal welcome...\n";
         }
 
      else if (age >= 18){
